@@ -19,7 +19,7 @@ test:
 production:
   adapter: mysql2            
   host: 54.208.130.57                         # VM IP
-  port: 64431                          # VM Port  
+  port: 48668                          # VM Port  
   database: demo_db             # Database Name
-  username: aggy48qy0uz7xrnn                # User Name
-  password: 'ay0ooox8slrm6uoa1arr7l4hzac6n3ge'  
+  username: a94xepztww52z4gr                # User Name
+  password: 'atzzagmjxe428o4h9yartlexylcdh2rs'  
